@@ -1,2 +1,3 @@
 # predictive_policing
-Predictive policing using ggplot
+
+Using the ggplot library in R for predictive policing
